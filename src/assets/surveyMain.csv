@@ -1,0 +1,23 @@
+item,target,distractor1,distractor2,distractor3,a,b,c,d,corpusId,break
+,,,,,,,,,,TRUE
+She practiced the violin for hours to improve her ____________.,music skills,musical,musician,music,1,0,0.25,1,letterPhoneme,FALSE
+The scientist conducted a groundbreaking ____________ on climate change.,research,researcher,researching,researched,1,0,0.25,1,letterPhoneme,FALSE
+The mountain climbers reached the ____________ after a long trek.,summit,summiting,summited,summiter,1,0,0.25,1,letterPhoneme,FALSE
+The detective carefully examined the ____________ for any clues.,evidence,evident,evidently,evidencing,1,0,0.25,1,letterPhoneme,FALSE
+The company organized a team-building ____________ in the countryside.,retreat,retreating,retreated,retreater,1,0,0.25,1,letterPhoneme,FALSE
+He prepared a heartfelt ____________ to thank everyone for their support.,speech,speaking,spoke,spoken,1,0,0.25,1,letterPhoneme,FALSE
+The artist used various colors to create a vibrant ____________ on the canvas.,painting,paint,painter,painted,1,0,0.25,1,letterPhoneme,FALSE
+She received a certificate for her exceptional ____________ in community service.,achievements,achieve,achiever,achieved,1,0,0.25,1,letterPhoneme,FALSE
+The author was known for his intriguing ____________ that captivated readers.,novels,novel,novelist,novelties,1,0,0.25,1,letterPhoneme,FALSE
+The chef's signature dish was a fusion of international ____________.,cuisines,cuisine,cuisinier,cuisinette,1,0,0.25,1,letterPhoneme,FALSE
+,,,,,,,,,,TRUE
+The athlete trained hard to improve his ____________ for the upcoming competition.,endurance,enduring,endured,endure,1,0,0.25,1,letterPhoneme,FALSE
+The company offered a generous ____________ to its employees during the holidays.,bonus,bonuses,boned,boning,1,0,0.25,1,letterPhoneme,FALSE
+She was fascinated by the ____________ of ancient civilizations.,culture,cultured,culturing,cult,1,0,0.25,1,letterPhoneme,FALSE
+The teacher provided constructive ____________ to help the students improve their writing.,feedback,feeding,fed,feeds,1,0,0.25,1,letterPhoneme,FALSE
+The children built a magnificent sandcastle on the ____________.,beach,beaches,beached,beaching,1,0,0.25,1,letterPhoneme,FALSE
+He enjoyed the peaceful ____________ of the countryside.,landscape,landscaping,landscaped,landscaper,1,0,0.25,1,letterPhoneme,FALSE
+The magician performed an impressive ____________ that left the audience in awe.,illusion,illusory,illusions,illusorily,1,0,0.25,1,letterPhoneme,FALSE
+The explorer documented his findings in a detailed ____________.,journal,journey,journeyed,journaled,1,0,0.25,1,letterPhoneme,FALSE
+She wore a stunning ____________ to the elegant gala.,gown,gowns,gowned,gowning,1,0,0.25,1,letterPhoneme,FALSE
+The mechanic repaired the ____________ with precision.,engine,engines,engineer,engineering,1,0,0.25,1,letterPhoneme,FALSE
