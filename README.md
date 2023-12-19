@@ -1,7 +1,7 @@
 # QuickQuery Automated Survey Maker
 
 ## Overview
-This app essentially automates the creation of multi-choice reading assessments from CSV data. Users can upload a CSV file like [this sample](https://github.com/Willy-Chan/QuickQuery/tree/main/src/assets), and the app will generate a complete assessment based on the provided questions. The app identifies the "target" column as the correct answer and auto-fills three additional distractor options.
+This app essentially automates the creation of multi-choice reading assessments from CSV data. Users can upload a CSV file like [this sample](https://github.com/Willy-Chan/QuickQuery/tree/main/src/assets/surveyMain.csv), and the app will generate a complete assessment based on the provided questions. The app identifies the "target" column as the correct answer and auto-fills three additional distractor options.
 
 ## Demo
 https://github.com/Willy-Chan/QuickQuery/assets/106504264/7379d173-5910-4f06-9e99-20632a2d77eb
